@@ -6,8 +6,7 @@ Practica en el lenguaje de marcado Markdown
 
 ## Ubicacion 
 
-### Poblacion
-
 ## Economia
 
 Las principales actividades economicas son  la agricultura, comercio y turismo
+
