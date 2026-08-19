@@ -10,5 +10,4 @@ Las principales actividades económicas son la agricultura, comercio y turismo. 
 
 ![DARK SOULS CARTAGO](https://static.bandainamcoent.eu/high/dark-souls/brand-setup/ds3_thumb_brand_624x468.jpg)
 
-![DARK SOULS CARTAGO](darksouls.jpg) 
  
